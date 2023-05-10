@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
-* AutosRUs' newest prototype, the MechaCar, is suffering from production troubless that are blocking the manufacturing team's progress. The data analytics team need to review the production data f tor insights that may help the manufacturing team.
+* AutosRUs' newest prototype, the MechaCar, is suffering from production troubless that are blocking the manufacturing team's progress. The data analytics team need to review the production data for insights that may help the manufacturing team.
 
 * The analysis include:
     * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
