@@ -1,14 +1,13 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
-* AutosRUs' newest prototype, the MechaCar, is suffering from production troubless that are blocking the manufacturing team's progress. The data analytics team need to review the production data for insights that may help the manufacturing team.
+* A car manufacture is developing a new prototype and requesting the data analytics team to review the production data for insights to troubleshoot the production progress.
 
 * The analysis include:
     * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
     * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
     * Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
-    * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
-
+    * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 ## Linear Regression to Predict MPG
 
@@ -46,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/114631804/225218418-90ba52e2-0d80-46ec-8db3-a21cd60a9631.png)
 
 
-* The result of the T-test for the suspensio coils for Lot 3 show a slight different to population mean. The p-value is 0.04168, which is lower than the common 0.05. Therefore, the null hypothesis can be rejected, which determined that this lot might has potential problem and need further evaluation.
+* The result of the T-test for the suspension coils for Lot 3 show a slight different to population mean. The p-value is 0.04168, which is lower than the common 0.05. Therefore, the null hypothesis can be rejected, which determined that this lot might has potential problem and need further evaluation.
 
 ![image](https://user-images.githubusercontent.com/114631804/225219595-968c4dbc-7e1c-4df2-a784-0ee1898554e0.png)
 
